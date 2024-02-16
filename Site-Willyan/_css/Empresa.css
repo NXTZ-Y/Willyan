@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+
+header{
+    text-align: center;
+}
+
+.bodry{
+    width: 20%;
+}
+
+.corpo{
+    width: 200px;
+    margin: 10px;
+    position: relative;
+    text-align: center;
+    float: left;
+    }
+
+p{
+    text-align: center;
+}
